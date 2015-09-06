@@ -1,0 +1,5 @@
+C:\Documents and Settings\elarue\Desktop\Name Holder\Name Holder\bin\Debug\Name Holder.exe
+C:\Documents and Settings\elarue\Desktop\Name Holder\Name Holder\bin\Debug\Name Holder.pdb
+C:\Documents and Settings\elarue\Desktop\Name Holder\Name Holder\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\elarue\Desktop\Name Holder\Name Holder\obj\x86\Debug\Name Holder.exe
+C:\Documents and Settings\elarue\Desktop\Name Holder\Name Holder\obj\x86\Debug\Name Holder.pdb

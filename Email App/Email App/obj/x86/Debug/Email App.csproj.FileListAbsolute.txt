@@ -1,0 +1,9 @@
+C:\Documents and Settings\elarue\Desktop\Email App\Email App\bin\Debug\Email App.exe
+C:\Documents and Settings\elarue\Desktop\Email App\Email App\bin\Debug\Email App.pdb
+C:\Documents and Settings\elarue\Desktop\Email App\Email App\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\elarue\Desktop\Email App\Email App\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Documents and Settings\elarue\Desktop\Email App\Email App\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Documents and Settings\elarue\Desktop\Email App\Email App\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\elarue\Desktop\Email App\Email App\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\elarue\Desktop\Email App\Email App\obj\x86\Debug\Email App.exe
+C:\Documents and Settings\elarue\Desktop\Email App\Email App\obj\x86\Debug\Email App.pdb

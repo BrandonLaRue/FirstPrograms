@@ -1,0 +1,9 @@
+E:\Documents\Programming\C#\C# Projects\List View and Right Click Example\List View and Right Click Example\List View and Right Click Example\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Documents\Programming\C#\C# Projects\List View and Right Click Example\List View and Right Click Example\List View and Right Click Example\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+E:\Documents\Programming\C#\C# Projects\List View and Right Click Example\List View and Right Click Example\List View and Right Click Example\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Documents\Programming\C#\C# Projects\List View and Right Click Example\List View and Right Click Example\List View and Right Click Example\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Documents\Programming\C#\C# Projects\List View and Right Click Example\List View and Right Click Example\List View and Right Click Example\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Documents\Programming\C#\C# Projects\List View and Right Click Example\List View and Right Click Example\List View and Right Click Example\bin\Debug\List View and Right Click Example.exe
+E:\Documents\Programming\C#\C# Projects\List View and Right Click Example\List View and Right Click Example\List View and Right Click Example\bin\Debug\List View and Right Click Example.pdb
+E:\Documents\Programming\C#\C# Projects\List View and Right Click Example\List View and Right Click Example\List View and Right Click Example\obj\x86\Debug\List View and Right Click Example.exe
+E:\Documents\Programming\C#\C# Projects\List View and Right Click Example\List View and Right Click Example\List View and Right Click Example\obj\x86\Debug\List View and Right Click Example.pdb

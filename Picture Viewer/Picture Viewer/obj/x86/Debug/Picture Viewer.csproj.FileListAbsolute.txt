@@ -1,0 +1,20 @@
+C:\Documents and Settings\elarue\Desktop\Picture Viewer\Picture Viewer\bin\Debug\Picture Viewer.exe
+C:\Documents and Settings\elarue\Desktop\Picture Viewer\Picture Viewer\bin\Debug\Picture Viewer.pdb
+C:\Documents and Settings\elarue\Desktop\Picture Viewer\Picture Viewer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\elarue\Desktop\Picture Viewer\Picture Viewer\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Documents and Settings\elarue\Desktop\Picture Viewer\Picture Viewer\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Documents and Settings\elarue\Desktop\Picture Viewer\Picture Viewer\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\elarue\Desktop\Picture Viewer\Picture Viewer\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\elarue\Desktop\Picture Viewer\Picture Viewer\obj\x86\Debug\Picture Viewer.exe
+C:\Documents and Settings\elarue\Desktop\Picture Viewer\Picture Viewer\obj\x86\Debug\Picture Viewer.pdb
+C:\Documents and Settings\elarue\Desktop\C#\Picture Viewer\Picture Viewer\obj\x86\Debug\Picture Viewer.exe
+C:\Documents and Settings\elarue\Desktop\C#\Picture Viewer\Picture Viewer\obj\x86\Debug\Picture Viewer.pdb
+E:\Documents\Programming\C#\Picture Viewer\Picture Viewer\obj\x86\Debug\Picture Viewer.exe
+E:\Documents\Programming\C#\Picture Viewer\Picture Viewer\obj\x86\Debug\Picture Viewer.pdb
+E:\Documents\Programming\C#\Picture Viewer\Picture Viewer\bin\Debug\Picture Viewer.exe
+E:\Documents\Programming\C#\Picture Viewer\Picture Viewer\bin\Debug\Picture Viewer.pdb
+E:\Documents\Programming\C#\Picture Viewer\Picture Viewer\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Documents\Programming\C#\Picture Viewer\Picture Viewer\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+E:\Documents\Programming\C#\Picture Viewer\Picture Viewer\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Documents\Programming\C#\Picture Viewer\Picture Viewer\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Documents\Programming\C#\Picture Viewer\Picture Viewer\obj\x86\Debug\GenerateResource.write.1.tlog

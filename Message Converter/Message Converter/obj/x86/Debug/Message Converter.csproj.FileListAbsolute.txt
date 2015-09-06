@@ -1,0 +1,9 @@
+E:\Documents\Programming\C#\C# Projects\Message Converter\Message Converter\bin\Debug\Message Converter.exe
+E:\Documents\Programming\C#\C# Projects\Message Converter\Message Converter\bin\Debug\Message Converter.pdb
+E:\Documents\Programming\C#\C# Projects\Message Converter\Message Converter\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Documents\Programming\C#\C# Projects\Message Converter\Message Converter\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+E:\Documents\Programming\C#\C# Projects\Message Converter\Message Converter\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Documents\Programming\C#\C# Projects\Message Converter\Message Converter\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Documents\Programming\C#\C# Projects\Message Converter\Message Converter\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Documents\Programming\C#\C# Projects\Message Converter\Message Converter\obj\x86\Debug\Message Converter.exe
+E:\Documents\Programming\C#\C# Projects\Message Converter\Message Converter\obj\x86\Debug\Message Converter.pdb

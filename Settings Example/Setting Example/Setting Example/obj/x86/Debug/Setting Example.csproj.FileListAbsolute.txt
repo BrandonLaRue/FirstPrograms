@@ -1,0 +1,10 @@
+E:\Documents\Programming\C#\C# Projects\Settings Example\Setting Example\Setting Example\bin\Debug\Setting Example.exe.config
+E:\Documents\Programming\C#\C# Projects\Settings Example\Setting Example\Setting Example\bin\Debug\Setting Example.exe
+E:\Documents\Programming\C#\C# Projects\Settings Example\Setting Example\Setting Example\bin\Debug\Setting Example.pdb
+E:\Documents\Programming\C#\C# Projects\Settings Example\Setting Example\Setting Example\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Documents\Programming\C#\C# Projects\Settings Example\Setting Example\Setting Example\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+E:\Documents\Programming\C#\C# Projects\Settings Example\Setting Example\Setting Example\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Documents\Programming\C#\C# Projects\Settings Example\Setting Example\Setting Example\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Documents\Programming\C#\C# Projects\Settings Example\Setting Example\Setting Example\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Documents\Programming\C#\C# Projects\Settings Example\Setting Example\Setting Example\obj\x86\Debug\Setting Example.exe
+E:\Documents\Programming\C#\C# Projects\Settings Example\Setting Example\Setting Example\obj\x86\Debug\Setting Example.pdb

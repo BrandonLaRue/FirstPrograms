@@ -1,0 +1,13 @@
+C:\Documents and Settings\elarue\Desktop\Program Maker\Program Maker\bin\Debug\Program Maker.exe
+C:\Documents and Settings\elarue\Desktop\Program Maker\Program Maker\bin\Debug\Program Maker.pdb
+C:\Documents and Settings\elarue\Desktop\Program Maker\Program Maker\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\elarue\Desktop\Program Maker\Program Maker\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Documents and Settings\elarue\Desktop\Program Maker\Program Maker\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Documents and Settings\elarue\Desktop\Program Maker\Program Maker\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\elarue\Desktop\Program Maker\Program Maker\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\elarue\Desktop\Program Maker\Program Maker\obj\x86\Debug\Program Maker.exe
+C:\Documents and Settings\elarue\Desktop\Program Maker\Program Maker\obj\x86\Debug\Program Maker.pdb
+C:\Documents and Settings\elarue\Desktop\Program Maker\Program Maker\obj\x86\Debug\Interop.Microsoft.Office.Core.dll
+C:\Documents and Settings\elarue\Desktop\Program Maker\Program Maker\obj\x86\Debug\Interop.VBIDE.dll
+C:\Documents and Settings\elarue\Desktop\Program Maker\Program Maker\obj\x86\Debug\Interop.Word.dll
+C:\Documents and Settings\elarue\Desktop\Program Maker\Program Maker\obj\x86\Debug\Program Maker.csproj.ResolveComReference.cache
